@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: info.cukes:cucumber-core:1.2.4:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/info.cukes/cucumber-core/jars/cucumber-core-1.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

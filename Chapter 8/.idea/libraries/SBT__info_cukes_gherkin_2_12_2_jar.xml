@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: info.cukes:gherkin:2.12.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/info.cukes/gherkin/bundles/gherkin-2.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
