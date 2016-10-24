@@ -14,8 +14,11 @@ test("one plus one with result") {
 ```
 
 The following software is recommended for use with this book:
+
 Scala
+
 SBT
+
 IntelliJ or Eclipse IDE
 
 ##Related Products
