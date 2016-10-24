@@ -15,11 +15,11 @@ test("one plus one with result") {
 
 The following software is recommended for use with this book:
 
-Scala
+* Scala
 
-SBT
+* SBT
 
-IntelliJ or Eclipse IDE
+* IntelliJ or Eclipse IDE
 
 ##Related Products
 * [Scala for Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/scala-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781783558742)
